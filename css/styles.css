@@ -1,0 +1,12 @@
+h1, h2{
+  color:blue;
+  text-align: center;
+p {
+  font-family: sans-serif;
+}
+ol {
+  line-height: 40px;
+}
+body{
+  background-color: #f4f4f4;
+}
